@@ -22,4 +22,5 @@ cpp/simpleGPS-simpleGPS_base.o
 cpp/simpleGPS-simpleGPS.o
 cpp/.md5sums
 cpp/.deps/
+cpp/simpleGPS
 tests/.md5sums
